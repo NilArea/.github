@@ -1,32 +1,33 @@
-# 欢迎来到 NilArea · 零域
+# NilArea · 零域
 
-**NilArea（零域）** 是一个开放的技术创作与资源共享社区。  
-我们提供博客、论坛与资源广场，让开发者可以自由分享技术文章、交流观点、下载实用资源。
+> Minecraft 模组开发与玩家社区
 
-🔗 官方网站：[nilarea.cn](https://nilarea.cn) | [nilarea.github.io](https://nilarea.github.io)
+**NilArea（零域）** 是一个 Minecraft 模组创作团队，致力于为玩家带来丰富的游戏体验。  
+我们开发 NeoForge 模组套件，并运营配套 Wiki 与社区论坛。
 
----
-
-## ✨ 社区功能
-
-- 浏览和阅读用户发布的博客
-- 参与评论与论坛讨论
-- 访问资源广场，下载公开分享的资源文件
-- 注册账号并创建自己的博客内容
+🔗 官方网站：[nilarea.cn](https://nilarea.cn)
 
 ---
 
-## 🚀 技术栈
+## 🧩 模组列表
 
-- **前端**：Nuxt (Vue.js) 构建的 SPA 应用
-- **后端**：.NET (ASP.NET Core)
+| 模组 | 描述 | 状态 |
+|------|------|------|
+| *筹备中* | 更多模组即将公布 | 🚧 |
+
+---
+
+## 🛠 技术栈
+
+- **模组加载器**：NeoForge
+- **开发语言**：Java / Kotlin
+- **构建工具**：Gradle
+- **社区站点**：Nuxt 4 + Cloudflare Workers
 - **许可证**：LGPLv3
 
-具体部署与使用说明请参考项目代码仓库内的文档。
-
 ---
 
-## 🤝 贡献（公开协作）
+## 🤝 参与贡献
 
 NilArea 欢迎社区成员通过 **GitHub Issues** 提供反馈、建议或报告问题。
 

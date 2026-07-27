@@ -2,9 +2,21 @@
 
 > NeoForge 26.1 模组开发组织 & 社区支持
 
-## 关于
+## 项目结构
 
-NilArea（零域）是一个专注于 **NeoForge 26.1** 的 Minecraft 模组开发组织，同时为模组开发者提供社区支持。
+### 核心模组
+
+- **[TechnoChronicle](https://github.com/NilArea/TechnoChronicle)** — 组织核心模组
+
+### 附属模组
+
+组织提供部分扩展附属模组。第三方开发者可自由制作其他附属模组。
+
+## 参与贡献
+
+- 🍴 **Fork** 核心模组 TechnoChronicle 进行二次开发
+- 🐛 通过 **Issues** 提交 Bug 报告或功能请求
+- 🔌 欢迎制作第三方附属模组
 
 ## 许可证
 
